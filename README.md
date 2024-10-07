@@ -1,2 +1,2 @@
 # SIOTest
-SIOTest 
+SIOTest  COIN COIN
